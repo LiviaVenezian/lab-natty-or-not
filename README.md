@@ -1,7 +1,7 @@
 <p align="center">
 <img 
     src="capa rpg.png"
-    width="600"
+    width="800"
 />
 </p>
 
@@ -26,7 +26,7 @@ Em seguida busquei as imagens de jogos RPG na internet e juntei elas.
 <p align="center">
 <img 
     src="jogos rpg.jpeg"
-    width="300"
+    width="500"
 />
 </p>
 
