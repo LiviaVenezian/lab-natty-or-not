@@ -1,7 +1,7 @@
 <p align="center">
 <img 
     src="capa rpg.png"
-    width="300"
+    width="600"
 />
 </p>
 
@@ -23,7 +23,12 @@ Primeiramente pedi ao chatgpt para criar um titulo chamativo!
 Depois com midjourney peguei uma imagem bem legal para usar de capa.
 Em seguida busquei as imagens de jogos RPG na internet e juntei elas.
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+<p align="center">
+<img 
+    src="jogos rpg.jpeg"
+    width="300"
+/>
+</p>
 
 ## 💭 Reflexão (Opcional)
 As Inteligencias Artificiais facilitam o trabalho.
