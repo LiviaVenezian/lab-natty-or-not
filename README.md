@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/capa rpg.png"
+    src="capa rpg.png"
     width="300"
 />
 </p>
