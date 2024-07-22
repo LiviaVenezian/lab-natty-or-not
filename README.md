@@ -29,6 +29,18 @@ Em seguida busquei as imagens de jogos RPG na internet e juntei elas.
     width="500"
 />
 </p>
+<p align="center">
+<img 
+    src="jogo.jpeg"
+    width="500"
+/>
+</p>
+<p align="center">
+<img 
+    src="jogo 2.jpeg"
+    width="500"
+/>
+</p>
 
 ## 💭 Reflexão (Opcional)
 As Inteligencias Artificiais facilitam o trabalho.
