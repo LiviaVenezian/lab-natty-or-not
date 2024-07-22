@@ -1,10 +1,14 @@
+<p align="center">
+<img 
+    src="./assets/capa rpg.png"
+    width="300"
+/>
+</p>
+
 JOGOS RPG - JOGAVA E NEM SABIA!
 
 
 
-### Template
-
-```markdown
 Lista de Jogos RPG
 
 ## 📒 Descrição
